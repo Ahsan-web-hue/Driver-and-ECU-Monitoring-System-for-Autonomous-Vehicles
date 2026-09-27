@@ -1,0 +1,12 @@
+CNN YAWNING DETECTION PERFORMANCE
+
+Validation Loss     : 0.2891
+Validation Accuracy : 87.82%
+Precision           : 87.60%
+Recall              : 88.33%
+F1-Score            : 87.97%
+ROC AUC             : 0.9532
+
+Confusion Matrix:
+[[103  15]
+ [ 14 106]]
